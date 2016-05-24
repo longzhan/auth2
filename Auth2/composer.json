@@ -1,0 +1,13 @@
+{
+    "name": "auth2/laravel5.1-for-auth2",
+    "description": "Multi-Table Authentication",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "longzhan",
+            "email": "longzhan2010@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
